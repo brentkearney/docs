@@ -84,6 +84,15 @@ Outlines can be renamed very easily, and in several different places. You can do
 
 <div align="center"><a href="../configure/outlines" class="button"><i class="fa fa-fw fa-graduation-cap"></i> Learn More About the Outlines Admin Panel</a></div>
 
+#### Positions
+
+![Positions](positions.jpg?classes=shadow,border)
+
+The Positions area is for assigning [Particles](/gantry5/particles) to **Module Positions** (Joomla and Grav) or **Widget Positions** (WordPress)in the [Layout](http://docs.gantry.org/gantry5/configure/layout-manager) of each page.
+
+<div align="center"><a href="/gantry5/particles/position" class="button"><i class="fa fa-fw fa-graduation-cap"></i> Learn More About Positions</a></div>
+
+
 #### Menu
 
 ![Menu](menu_module_1.png?classes=shadow,border)
@@ -142,7 +151,7 @@ The **Styles** panel makes it easy to quickly adjust visual bits and pieces rela
 
 #### Particle Defaults
 
-![Particle Defaults](settings.jpg?classes=shadow,border)
+![Particle Defaults](particles.jpg?classes=shadow,border)
 
 The **Particle Defaults** panel is a virtual command center for Particles. This is where you can quickly toggle Particles on and off, as well as configure their global settings.
 
